@@ -1,2 +1,2 @@
 #! /bin/bash
-./nheqminer -l eu1-zcash.flypool.org:3333 -u $ADDRESS.$HOSTNAME
+./nheqminer/Linux_cmake/nheqminer_cpu/nheqminer_cpu -l eu1-zcash.flypool.org:3333 -u $ADDRESS.$HOSTNAME
